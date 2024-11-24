@@ -5,8 +5,7 @@
 - 🎯 To be better person that the person I was yesterday 
 
 
--- if you want to support me you can do via Ko-Fi platform 
-⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️<
+-- if you want to support me you can do via Ko-Fi platform
 <div align="center">
   <a href="https://ko-fi.com/jemadux">
     <img src=".readmeimgs/kofi-logo.png" alt="Ko-Fi Logo" height="75px">
